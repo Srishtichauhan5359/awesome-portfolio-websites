@@ -10,7 +10,7 @@ const moocscards = [
     moocLink: "https://www.coursera.org/browse/data-science",
   },
   {
-    title: "Cryptography",
+    title: "Data Structures",
     cardImage: "assets/images/education-page/udemy.svg",
     moocLink: "https://www.udemy.com/course/cryptography-for-beginners/",
   },
